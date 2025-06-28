@@ -5,6 +5,6 @@ function insert_Row() {
 	let cell1 = newRow.insertCell(0);
 	let cell2 = newRow.insertCell(1);
 
-	cell1.innerHTML = "New Cell";
-	cell2.innerHTML = "New Cell";
+	cell1.innerHTML = "New Cell1";
+	cell2.innerHTML = "New Cell2";
 }
